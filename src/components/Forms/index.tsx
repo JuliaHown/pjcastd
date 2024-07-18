@@ -30,7 +30,7 @@ function Form() {
             required
           />
         </div>
-        <Button />
+        <Button texto='Adicionar' />
       </form>
   )
 }
